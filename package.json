@@ -1,0 +1,21 @@
+{
+  "name": "aaa-123-dj-gp15",
+  "version": "0.0.6",
+  "description": "djdj",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "dj",
+    "djdj",
+    "djdjdj"
+  ],
+  "author": "1991768641@qq.com",
+  "license": "MIT"
+}
